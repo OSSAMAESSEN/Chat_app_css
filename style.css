@@ -237,12 +237,13 @@ span{
 
 
 }
-/* @media screen and (min-width:1350px){
+@media screen and (min-width:1440px){
     .container{
     
         position: relative;
         left: 10%;
         width: auto;
+        height: auto;
     
     }
     .Main{
@@ -251,11 +252,12 @@ span{
     }
     .Card-bg{
         width: 250px;
-        height: 105vh;
+        height: 100vh;
     }
     .para_h1{
-        margin-left: 80px;
+        margin-left: 100px;
         margin-top: 200px;
+        
     }
 
-} */
+}
